@@ -437,10 +437,6 @@ document.getElementById("restart").addEventListener("click",function(){
 
 });
 
-document.getElementById("about").addEventListener("click",function(){
-    alert("Quiz Website Project Created By Digvijay Singh");
-
-});
 
 
 /*Smooth Scroll*/
